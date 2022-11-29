@@ -1,4 +1,5 @@
 botnet_tot_syn_l.csv
+tot_mnist_shuf.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
